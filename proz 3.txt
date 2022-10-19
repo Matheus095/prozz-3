@@ -8,5 +8,4 @@ cadeia Nome = "José Almeida da Silva"
 inteiro CPF = 12345678900
 inteiro RG = 9517530
 real Altura = 1.78
-cadeia Endereço = "Rua A, 380 – Centro – Recife/PE"
-
+caractere Endereço = "Rua A, 380 – Centro – Recife/PE"
